@@ -9,7 +9,7 @@ import android.util.Log;
 public class TestUtils {
 
     public static void testFun() {
-        Log.d("misery", "test");
+        Log.d("misery", "test2");
     }
 
 }
